@@ -1,4 +1,5 @@
 {
+  "name": "Create React App Forked",
   "private": true,
   "workspaces": [
     "packages/*"
